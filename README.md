@@ -1,2 +1,2 @@
-# MARL
-Simple implementations of different methods on MARL
+# Reinforcement Learning
+Simple implementations of different methods and situations on MARL
