@@ -21,7 +21,10 @@ Implemented a 5 times 5 grid world with walls (balck), three agents (green, blue
 
 
 
+**Example of Results:**
+
 
 Agents could find proper targets after training:
 ![fullyCen_result](https://user-images.githubusercontent.com/60335722/117496616-25a62780-af2c-11eb-916c-8014c5574855.gif)
 
+![fixed_start_result](https://user-images.githubusercontent.com/60335722/117498143-41aac880-af2e-11eb-83a1-82ff5b799936.gif)
