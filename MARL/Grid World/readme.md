@@ -2,10 +2,15 @@
 **Installation:**
 
 python3.6.8-64 bit
+
 numpy 1.19.5
+
 matplotlib 3.3.4
+
 cv2 3.3.0
+
 keras 2.1.5
+
 tensorflow 1.9.0
 
 
